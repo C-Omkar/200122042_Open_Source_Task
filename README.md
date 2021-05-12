@@ -1,6 +1,6 @@
 Omkar Chaudhari
 ===================
-## 20012242
+## 200122042
 ___
 ## Coding Week Schedule
 
@@ -15,6 +15,7 @@ Web Development |	14/05/2021 | NO
 Machine Learning | 15/05/2021 | **YES**
 App Development | 16/05/2021 | NO
 ___
+## Code to calculate sum of ASCII values of my full name
 ```C++
 #include <iostream>
 using namespace std;
@@ -49,3 +50,6 @@ ___
 
 ![Coding Club Logo](https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png)
 ___
+
+## Interests
+
