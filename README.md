@@ -51,7 +51,7 @@ ___
 ![Coding Club Logo](https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png)
 ___
 
-## Interests
+## Interests:
 
 Coding has been my pastime for several years now, I have learnt HTML, CSS, JAVA(Upto Data Structures), C(Upto Stacks) and Python over the course of my school and college. I recently picked up quite a bit of interest in machine learning and its applications. I created 2 projects in machine learning:
 
