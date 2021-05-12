@@ -57,4 +57,7 @@ Coding has been my pastime for several years now, I have learnt HTML, CSS, JAVA(
 
 
 1. An image classifier that classifies planes, cars and bikes, or any image categories I feed it.
-2. A project that uses sentimental text analysis to classify movie review as positive or negative. The movie reviews were fed to it through a kaggle dataset of IMDB Reviews
+2. A project that uses sentimental text analysis to classify movie review as positive or negative. The movie reviews were fed to it through a kaggle dataset of IMDB Reviews.
+
+I have some interest in game development too, I have used blender a fair amount to edit my youtube videos and create thumbnails.
+Overall I have yet to explore all verticals, but I am extremely enthusiastic about ML/AI and Game Development in particular.
