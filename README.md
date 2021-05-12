@@ -1,2 +1,2 @@
-Alt-Omkar Chaudhari
+Omkar Chaudhari
 ===================
