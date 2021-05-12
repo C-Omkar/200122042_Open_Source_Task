@@ -14,3 +14,5 @@ App Development | 16/05/2021 | NO
 ___
 
 ![Coding Week](https://github.com/codingiitg/open_source_submission/blob/main/Group%2095.png)
+___
+![Coding Club Logo](https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png)
