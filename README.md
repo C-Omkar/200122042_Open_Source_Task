@@ -53,4 +53,8 @@ ___
 
 ## Interests
 
-ML
+Coding has been my pastime for several years now, I have learnt HTML, CSS, JAVA(Upto Data Structures), C(Upto Stacks) and Python over the course of my school and college. I recently picked up quite a bit of interest in machine learning and its applications. I created 2 projects in machine learning:
+
+
+1. An image classifier that classifies planes, cars and bikes, or any image categories I feed it.
+2. A project that uses sentimental text analysis to classify movie review as positive or negative. The movie reviews were fed to it through a kaggle dataset of IMDB Reviews
